@@ -1,0 +1,447 @@
+// question: 6490  name: __________ is a software and hardware standard that accelerates video ...
+::__________ is a software and hardware standard that accelerates video ...::__________ is a software and hardware standard that accelerates video processing when working with large or complex images such as 3D files.{
+	~Memory
+	~Scratch disk
+	=Open GL
+	~History States
+}
+
+
+// question: 6487  name: ____________ is a raster graphics editor developed and published by Adobe ...
+::____________ is a raster graphics editor developed and published by Adobe ...::____________ is a raster graphics editor developed and published by Adobe Systems for Windows and OS X{
+	~Adobe Bridge
+	=Adobe Photoshop
+	~Adobe CS
+	~Adobe Firworks
+}
+
+
+// question: 6486  name: ______________ is a digital asset management app developed by Adobe Systems ...
+::______________ is a digital asset management app developed by Adobe Systems ...::______________ is a digital asset management app developed by Adobe Systems and first released with Adobe Creative Suite v2.{
+	=Adobe Bridge
+	~Adobe Photoshop
+	~Adobe CS
+	~Adobe Firworks
+}
+
+
+// question: 6492  name: A _____ is a snapshot of a state of the Layers panel.
+::A _____ is a snapshot of a state of the Layers panel.::A _____ is a snapshot of a state of the Layers panel.{
+	=layer comp
+	~comp layer
+	~layer
+	~composition
+}
+
+
+// question: 6474  name: A design in Adobe Photoshop consists of multiple _____ of graphics and text.
+::A design in Adobe Photoshop consists of multiple _____ of graphics and text.::A design in Adobe Photoshop consists of multiple _____ of graphics and text.{
+	=layer
+	~transparency
+	~filter
+	~magic wand
+}
+
+
+// question: 6488  name: Amount of memory assigned to Photoshop.
+::Amount of memory assigned to Photoshop.::Amount of memory assigned to Photoshop.{
+	=Memory
+	~Scratch disk
+	~Open GL
+	~History States
+}
+
+
+// question: 6475  name: By changing the  of _____, you can blend multiple layers with one another.
+::By changing the  of _____, you can blend multiple layers with one another.::By changing the  of _____, you can blend multiple layers with one another.{
+	~layer
+	=transparency
+	~filter
+	~magic wand
+}
+
+
+// question: 6476  name: Clouds, motion blur, ocean ripple and plastic wrap are all examples of ...
+::Clouds, motion blur, ocean ripple and plastic wrap are all examples of ...::Clouds, motion blur, ocean ripple and plastic wrap are all examples of _____that can be used in your graphic design.{
+	~layer
+	~transparency
+	=filter
+	~magic wand
+}
+
+
+// question: 6453  name: Drop shadow, inner glow and bevel are examples of _________ you need to use ...
+::Drop shadow, inner glow and bevel are examples of _________ you need to use ...::Drop shadow, inner glow and bevel are examples of _________ you need to use with text.{
+	~filters
+	=blending options
+	~image adjustments
+	~layer modes
+}
+
+
+// question: 6477  name: If you have a solid color to select and delete, the _____  tool is the ...
+::If you have a solid color to select and delete, the _____  tool is the ...::If you have a solid color to select and delete, the _____  tool is the quickest and most effective.{
+	~layer
+	~transparency
+	~filter
+	=magic wand
+}
+
+
+// question: 6493  name: Keyboard shortcut for the HUD color picker.
+::Keyboard shortcut for the HUD color picker.::Keyboard shortcut for the HUD color picker.{
+	=SHIFT ALT Right Click
+	~SHIFT ALT Left Click
+	~CTRL ALT Right Click
+	~CTRL ALT Left Click
+}
+
+
+// question: 6496  name: Keyboard shortcut to fit images on the screen.
+::Keyboard shortcut to fit images on the screen.::Keyboard shortcut to fit images on the screen.{
+	~CTRL +
+	~CTRL -
+	~CTRL O
+	=CTRL 0
+}
+
+
+// question: 6497  name: Keyboard shortcut to move around an image.
+::Keyboard shortcut to move around an image.::Keyboard shortcut to move around an image.{
+	=Press the spacebar and use the mouse to move arount the image.
+	~Press the CTRL key and use the mouse to move arount the image.
+	~Press the ALT key and use the mouse to move arount the image.
+	~Press the CMD key and use the mouse to move arount the image.
+}
+
+
+// question: 6500  name: Keyboard shortcut to redo an action.
+::Keyboard shortcut to redo an action.::Keyboard shortcut to redo an action.{
+	~Alt Ctrl Z
+	=Shift Ctrl Z
+	~Alt U
+	~Alt X
+}
+
+
+// question: 6498  name: Keyboard shortcut to rotate images.
+::Keyboard shortcut to rotate images.::Keyboard shortcut to rotate images.{
+	=R
+	~M
+	~C
+	~L
+}
+
+
+// question: 6499  name: Keyboard shortcut to undo an action.
+::Keyboard shortcut to undo an action.::Keyboard shortcut to undo an action.{
+	=Alt Ctrl Z
+	~Shift Ctrl Z
+	~Alt U
+	~Alt X
+}
+
+
+// question: 6494  name: Keyboard shortcut to zoom in.
+::Keyboard shortcut to zoom in.::Keyboard shortcut to zoom in.{
+	=CTRL +
+	~CTRL -
+	~CTRL O
+	~CTRL 0
+}
+
+
+// question: 6495  name: Keyboard shortcut to zoom out.
+::Keyboard shortcut to zoom out.::Keyboard shortcut to zoom out.{
+	~CTRL +
+	=CTRL -
+	~CTRL O
+	~CTRL 0
+}
+
+
+// question: 6454  name: Luminosity, darken, exclusion and color dodge are examples of __________ you ...
+::Luminosity, darken, exclusion and color dodge are examples of __________ you ...::Luminosity, darken, exclusion and color dodge are examples of __________ you may use to allow graphics to interact with background.{
+	~filters
+	~blending options
+	~image adjustments
+	=layer modes
+}
+
+
+// question: 6455  name: Once you build the layers in your graphic design, you cannot rearrange them.
+::Once you build the layers in your graphic design, you cannot rearrange them.::Once you build the layers in your graphic design, you cannot rearrange them.{
+	~True
+	=False
+}
+
+
+// question: 6456  name: Pixels represent tiny ________ of color, which are typically unseen by the ...
+::Pixels represent tiny ________ of color, which are typically unseen by the ...::Pixels represent tiny ________ of color, which are typically unseen by the naked eye.{
+	~circles
+	=squares
+	~inches
+	~swatches
+}
+
+
+// question: 7220  name: T/F
+::T/F::[html]<p><span>These are found in layers panel, brush settings and layers styles.</span></p>{
+	=<p>Blending Mode</p>
+	~<p>Filters</p>
+	~<p>Layer Styles</p>
+	~<p>Image Adjustments</p>
+}
+
+
+// question: 6478  name: The  tool allows you the magnify an area of the design for detail work.
+::The  tool allows you the magnify an area of the design for detail work.::The  tool allows you the magnify an area of the design for detail work.{
+	=zoom
+	~text mask
+	~canvas
+	~pallette
+}
+
+
+// question: 6457  name: The  tool allows you to copy one area of the layer to another area of the layer.
+::The  tool allows you to copy one area of the layer to another area of the layer.::The  tool allows you to copy one area of the layer to another area of the layer.{
+	~magic wand
+	=clone stamp
+	~marquee
+	~gradient
+}
+
+
+// question: 6479  name: The _____ tool allows you to cut text out of a scenic background for use in ...
+::The _____ tool allows you to cut text out of a scenic background for use in ...::The _____ tool allows you to cut text out of a scenic background for use in your design.{
+	~zoom
+	=text mask
+	~canvas
+	~pallette
+}
+
+
+// question: 6458  name: The _______ tool allows you to select a rectangular or circular area of an ...
+::The _______ tool allows you to select a rectangular or circular area of an ...::The _______ tool allows you to select a rectangular or circular area of an layer to change or delete.{
+	=marquee
+	~crop
+	~hand
+	~zoom
+}
+
+
+// question: 6459  name: The ________ tool is best selected when you need to select an abnormally ...
+::The ________ tool is best selected when you need to select an abnormally ...::The ________ tool is best selected when you need to select an abnormally shaped image in a layer.{
+	~crop
+	~marquee
+	=lasso
+	~magic wand
+	~clone stamp
+}
+
+
+// question: 6460  name: The average image size of 640 x 480 is measured in picas.
+::The average image size of 640 x 480 is measured in picas.::The average image size of 640 x 480 is measured in picas.{
+	~True
+	=False
+}
+
+
+// question: 6491  name: The default value for the history states is _____ .
+::The default value for the history states is _____ .::The default value for the history states is _____ .{
+	=20
+	~10
+	~30
+	~40
+}
+
+
+// question: 6480  name: The name of the area upon which the graphic design is completed is the _____.
+::The name of the area upon which the graphic design is completed is the _____.::The name of the area upon which the graphic design is completed is the _____.{
+	~zoom
+	~text mask
+	=canvas
+	~pallette
+}
+
+
+// question: 6481  name: The name of the areas that include the color swatches, layers and toolbox is ...
+::The name of the areas that include the color swatches, layers and toolbox is ...::The name of the areas that include the color swatches, layers and toolbox is _____.{
+	=zoom
+	~text mask
+	~canvas
+	=pallette
+}
+
+
+// question: 6461  name: The typical size for a graphic design is measured in __________.
+::The typical size for a graphic design is measured in __________.::The typical size for a graphic design is measured in __________.{
+	~pica
+	=pixels
+	~points
+	~inches
+}
+
+
+// question: 6482  name: This tool allows you to reposition an object in your layer.
+::This tool allows you to reposition an object in your layer.::This tool allows you to reposition an object in your layer.{
+	=move
+	~canvas
+	~pallette
+	~zoom
+}
+
+
+// question: 6501  name: To change photoshops default application backround color the user must:
+::To change photoshops default application backround color the user must\:::To change photoshops default application backround color the user must\:{
+	~left click inside the image and select custom color
+	=right click outside the image and select custom color
+	~double click on the background and use the paint bucket to change the color
+	~left click outside the image and select custom color
+}
+
+
+// question: 6462  name: To cut down the size of the entire graphic design, including all layers, you ...
+::To cut down the size of the entire graphic design, including all layers, you ...::To cut down the size of the entire graphic design, including all layers, you should select the ______ tool.{
+	~marquee
+	~magic wand
+	~eraser
+	=crop
+	~clone stamp
+}
+
+
+// question: 6463  name: To delete a layer from your image, turn off the "eye" icon showing the layer.
+::To delete a layer from your image, turn off the "eye" icon showing the layer.::To delete a layer from your image, turn off the "eye" icon showing the layer.{
+	~True
+	=False
+}
+
+
+// question: 6464  name: To delete a series of steps that have been used in a graphic design, you ...
+::To delete a series of steps that have been used in a graphic design, you ...::To delete a series of steps that have been used in a graphic design, you would need to use the _________ pallette.{
+	~layer
+	~action
+	=history
+	~path
+	~color swatch
+}
+
+
+// question: 6465  name: To delete items from history, drag them into the trash can.
+::To delete items from history, drag them into the trash can.::To delete items from history, drag them into the trash can.{
+	=True
+	~False
+}
+
+
+// question: 6466  name: To fill a background layer with clouds, pull down the filter menu and go to ...
+::To fill a background layer with clouds, pull down the filter menu and go to ...::To fill a background layer with clouds, pull down the filter menu and go to render.{
+	=True
+	~False
+}
+
+
+// question: 6467  name: To fill in a layer as a background, which of the following tools would be ...
+::To fill in a layer as a background, which of the following tools would be ...::To fill in a layer as a background, which of the following tools would be useful? Choose all that apply. You must select all correct possibilities.{
+	~line
+	=paint bucket
+	=gradient
+	~smudge
+	~lasso
+}
+
+
+// question: 6468  name: To resize a graphic in a layer, select the _______ tool, then check mark ...
+::To resize a graphic in a layer, select the _______ tool, then check mark ...::To resize a graphic in a layer, select the _______ tool, then check mark _____________ to see selection handles.{
+	~marquee; resize
+	=move; show bounding box
+	~move; resize
+	~marquee; show bounding box
+}
+
+
+// question: 6483  name: To select a new color in the foreground or background squares, use the _____ ...
+::To select a new color in the foreground or background squares, use the _____ ...::To select a new color in the foreground or background squares, use the _____ tool.{
+	=color picker
+	=idropper
+	=eye dropper
+	~none of the above
+}
+
+
+// question: 6469  name: To turn-off the use of a tool, or deselect it, you must push the  keys.
+::To turn-off the use of a tool, or deselect it, you must push the  keys.::To turn-off the use of a tool, or deselect it, you must push the  keys.{
+	~Control + Z
+	~ALT + D
+	~Shift + Z
+	=Control + D
+	~Shift + D
+}
+
+
+// question: 6470  name: To undo the last change made to your graphic design, the  keys may be used.
+::To undo the last change made to your graphic design, the  keys may be used.::To undo the last change made to your graphic design, the  keys may be used.{
+	~Control + D
+	=Control + Z
+	~Shift + D
+	~ALT + Z
+	~Shift + Z
+}
+
+
+// question: 6471  name: Twirl, ripple and spherize are examples of distortion __________ you may use ...
+::Twirl, ripple and spherize are examples of distortion __________ you may use ...::Twirl, ripple and spherize are examples of distortion __________ you may use to change the look of your graphic.{
+	=filters
+	~blending options
+	~image adjustments
+	~layer modes
+}
+
+
+// question: 6484  name: When deleting detailed areas of your image by hand, the  tool _____ is the ...
+::When deleting detailed areas of your image by hand, the  tool _____ is the ...::When deleting detailed areas of your image by hand, the  tool _____ is the best option.{
+	=eraser
+	~delete
+	~remove
+	~clear
+}
+
+
+// question: 6472  name: When selecting an area of pixels to delete, which of the following tools ...
+::When selecting an area of pixels to delete, which of the following tools ...::When selecting an area of pixels to delete, which of the following tools could be used? Choose all that apply. You must select all correct possibilities.{
+	=magic wand
+	=marquee
+	~paint bucket
+	=lasso
+	~type/text
+}
+
+
+// question: 6473  name: When using the SAVE AS: feature, the ________ file type saves my graphic ...
+::When using the SAVE AS\: feature, the ________ file type saves my graphic ...::When using the SAVE AS\: feature, the ________ file type saves my graphic design with all layers visible for changes upon opening the next time. Choose all that apply. You must select all correct possibilities.{
+	=.pdf
+	~.gif
+	=.psd
+	~.jpeg
+}
+
+
+// question: 6489  name: When your system does not have enough RAM to perform an operation, Photoshop ...
+::When your system does not have enough RAM to perform an operation, Photoshop ...::When your system does not have enough RAM to perform an operation, Photoshop uses a proprietary virtual memory technology, also called _____________.{
+	~Memory
+	=Scratch disk
+	~Open GL
+	~History States
+}
+
+
+// question: 6485  name: You must select a _____ to give your text perspective against your background.
+::You must select a _____ to give your text perspective against your background.::You must select a _____ to give your text perspective against your background.{
+	=layer effect
+	~layer settings
+	~layer foreground
+	~layer background
+}
+
+

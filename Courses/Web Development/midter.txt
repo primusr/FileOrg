@@ -1,0 +1,140 @@
+Match the following terms to its corresponding definition.{
+=audience definition->A profile of your average user.
+=complete URL->An address of documents and other resources on the web that includes the protocol the browser uses to access the file, service, domain name, the relative path, and the filename.
+=extranet->A private part of a company's intranet that uses the Internet to securely share
+part of an organization's information.
+=File Transfer Protocol (FTP)->A standard communications protocol for transferring files over the Internet.
+=freeware->Programs available free of charge or with an optional donation fee.
+=Internet service provider (ISP)->A company that provides Internet access and web site hosting services to individuals and organizations.
+=intranet->A private collection of networks contained within an organization. 
+=page view->The number of times a web page is viewed by a user.
+=partial URL->A Uniform Resource Locator (URL) that omits the protocol and server name and only specifies the path to the file relative to one another on the same server.
+=requirements->The list of customer needs for a web site, such as search capability, tabbed menu navigation, specific color and branding requirements, or anything else that will create the desired outcome for the site.
+=Secure Socket Layer (SSL)->Communications software that allows transmission of encrypted secure messages over the Internet.
+=shareware->Software that is distributed free so users can try it before they buy it. Users then can register the software for a relatively small fee compared to software produced commercially.
+=site specification->The design document for your web site.
+=Structured Query Language (SQL)->A programming language that lets you select information from a database.
+=taxonomy->A classification and naming of content in a hierarchical structure.
+=Uniform Resource Locator (URL)->The global address of documents and other resources on the web.
+=virtual machine->A software emulator that acts like a physical computer.
+=web analytics->The analysis of statistics that are gathered by web servers.
+}
+
+Match the following terms to its corresponding description.{
+=!important->A CSS keyword that lets the user override the author's style setting for a particular element.
+=cascade->Style sheets originate from three sources: the author, the user, and the browser.
+=child element->An HTML element contained within another element.
+=declaration->The declaration portion of a style rule consists of a property name and value.
+=inheritance->The order of CSS rules dictating that child elements inherit rules from parent elements.
+=<link> element->An HTML element that lets you establish document relationships, such as linking to an external style sheet.
+=parent element->An HTML element that contains child elements.
+=property->A quality or characteristic stated in a style rule, such as color, font-size, or margin. The property is a part of the style rule declaration.
+=pseudo-class->An element that selects elements based on characteristics other than their element name.
+=pseudo-element->An element that lets you change other aspects of a document that are not classified by elements, such as applying style rules to the first letter or first line of a paragraph.
+=recommendation->The final stage of development by the W C, indicating that a technology release has been reviewed and tested extensively.
+=selector->The part of a style rule that determines which HTML element to match. 
+=style rule->The basic unit of expression in CSS. It is composed of two parts: a selector and a declaration. It also expresses the style information for an element.
+=style sheet->A set of style rules that describes a document's display characteristics. 
+=type selector->A CSS selector that applies a rule to every instance of the element in a document.
+=universal selector->A selector that lets you quickly select groups of elements and apply a style rule.
+=value->The precise specification of a property in a style rule, based on the allowable values for the property.
+}
+
+Which of the following selector matches the name of any element type?{
+~The Type Selector
+=The Universal Selector
+~The Descendant Selector
+~The Class Selector
+}
+
+Which of the following defines a relative measurement for the height of a font in em spaces?{
+~%
+~cm
+=em
+~ex
+}
+
+Which of the following defines a measurement in screen pixels?{
+=px
+~vh
+~vw
+~vmin
+}
+
+Which of the following is correct about Browser Safe Colors?{
+~These are 216 colors which are supposed to be most safe and computer independent colors.
+~These colors vary from hexa code 000000 to FFFFFF.
+~These colors are safe to use because they ensure that all computers would display the colors correctly when running a 256 color palette.
+=All of the above.
+}
+
+Which of the following property is used to set the color of a text?{
+=color
+~direction
+~letter-spacing
+~word-spacing
+}
+
+Which of the following property is used to capitalize text or convert text to uppercase or lowercase letters?{
+~text-indent
+~text-align
+~text-decoration
+=text-transform
+}
+
+Which of the following property of a table element allows browsers to speed up layout of a table by using the first width properties it comes across for the rest of a column rather than having to load the whole table before rendering it?{
+=:table-layout
+~:border-spacing
+~:caption-side
+~:empty-cells
+}
+
+Which of the following property changes the width of left border?{
+~:border-bottom-width
+~:border-top-width
+=:border-left-width
+~:border-right-width
+}
+
+Which of the following property serves as shorthand for the marker properties?{
+~list-style-type
+~list-style-position
+~list-style-image
+=list-style
+}
+
+Which of the following value of cursor shows it as a pointing hand?{
+~crosshair
+~default
+=pointer
+~move
+}
+
+In the following code snippet, what value is given for the left margin:
+margin: 5px 10px 3px 8px;{
+~3px
+~10px
+=8px
+~5px
+}
+
+What property is used to change the text color of an element?{
+=fontcolor:
+~textcolor:
+~color:
+~font-color:
+}
+
+Which snippet of CSS is commonly used to center a website horizontally?{
+~site-align: center;
+~margin: center;
+=margin: auto 0;
+~margin: 0 auto;
+}
+
+How do you make a list not display bullet points?{
+~list-style-type: no-bullet
+~list: none
+~bulletpoints: none
+=list-style-type: none
+}
