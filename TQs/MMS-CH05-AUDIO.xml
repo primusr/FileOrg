@@ -1,0 +1,1423 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>As one story goes, the criterion used to set the length of the sectors and ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>As one story goes, the criterion used to set the length of the sectors and ultimately the physical size of the compact disc format was based on the length of:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>the Beatles' "White Album"</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Handel's Messiah</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Beethoven's Ninth Symphony</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Bach's St. John's Passion</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Iron Butterfly's live rendition of "Innagaddadavida"</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Audio recorded at 44.1 kHz (kilohertz), 16-bit stereo is considered:</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Audio recorded at 44.1 kHz (kilohertz), 16-bit stereo is considered:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>phone-quality</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>voice-quality</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>FM-quality</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>CD-quality</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>AM-quality</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>DSP stands for:</text>
+    </name>
+    <questiontext format="HTML">
+      <text>DSP stands for:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>dynamic sound programming</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>data structuring parameters</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>direct splicing and partitioning</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>delayed streaming playback</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>digital signal processing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Each individual measurement of a sound that is stored as digital information ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Each individual measurement of a sound that is stored as digital information is called a:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>buffer</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>stream</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>sample</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>capture</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>byte</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Reducing the number of separate measurements of an audio file is called ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Reducing the number of separate measurements of an audio file is called _______________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>downsample</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>quick time</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>SND</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>WAV</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Removing blank space or "dead air" at the beginning or end of a recording is ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Removing blank space or "dead air" at the beginning or end of a recording is sometimes called:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>quieting</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>pre-rolling</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>quantizing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>trimming</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>flashing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Sequencing software:</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Sequencing software:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>places audio clips in order in a soundtrack</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>records and edits MIDI data</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>applies filters to digital audio clips in a predetermined order</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>manages a project by creating a timeline of events</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>helps synchronize images with a sound track</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Some software allows you to begin playing a downloading sound file as soon as...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Some software allows you to begin playing a downloading sound file as soon as enough of the sound is cached in your computer's _______________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>streaming</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>buffer</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>MIDI</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>MP3</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Sound pressure levels (loudness or volume) are measured in _______________.</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Sound pressure levels (loudness or volume) are measured in _______________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>acoustics</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>decibel</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>normalize</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>quantization</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The audio file format introduced by Microsoft and IBM with the introduction ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The audio file format introduced by Microsoft and IBM with the introduction of Windows is the _______________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>downsample</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>quick time</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>SND</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>WAV</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The branch of physics that studies sound is _______________.</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The branch of physics that studies sound is _______________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>acoustics</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>decibel</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>normalize</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>quantization</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The file format that uses a shorthand representation of musical notes and ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The file format that uses a shorthand representation of musical notes and durations stored in numeric form is:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>AIFF</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>CD-ROM/XA</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>DSP</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>MIDI</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>QuickTime</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The file size of a five-second recording sampled at 22 kHz, 16-bit stereo ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The file size of a five-second recording sampled at 22 kHz, 16-bit stereo (two tracks) would be about:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>110,000 bytes</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>220,000 bytes</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>440,000 bytes</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>550,000 bytes</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>880,000 bytes</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The most common file format for editing sound on the Macintosh is ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The most common file format for editing sound on the Macintosh is _______________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>downsample</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>quick time</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>SND</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>WAV</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The primary benefit of the General MIDI over the previous MIDI specification ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The primary benefit of the General MIDI over the previous MIDI specification is that:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>the file sizes are much smaller due to the compression scheme</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>users can easily edit and adjust the data structures</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>it can be easily converted into the CDROM/XA format</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>MIDI files can be easily integrated into the computer's operating system as system sounds</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>the instruments are the same regardless of the playback source</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The process of playing a sound file while part of the file is still ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The process of playing a sound file while part of the file is still downloading is called _______________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>streaming</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>buffer</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>MIDI</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>MP3</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The process of recording a sound, stored in the  form of thousands of ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The process of recording a sound, stored in the  form of thousands of individual measurements, each at a discrete point in time, is called:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>sampling</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>synthesizing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>sizing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>quantizing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>streaming</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The Red Book standard was so named because:</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The Red Book standard was so named because:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>the standard was pioneered in the former Soviet Union</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>red is an acronym for "Registered Electronic Data"</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>the standard's book jacket was red</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>it was so expensive to produce CDs early on that most producers were "in the red"</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>the dye in the first recordable CDs had a reddish tint</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The slower a user's connection, the longer he must wait for enough of the ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The slower a user's connection, the longer he must wait for enough of the sound to download so that the entire file will have downloaded by the time the sound reaches the end. This effect is called:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>streaming latency</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>post-processing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>compression</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>digital signal processing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>multitap delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The standard file format for displaying digitized motion video on the ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The standard file format for displaying digitized motion video on the Macintosh is _______________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>downsample</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Quick Time</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>SND</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>WAV</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>To adjust the level of a number of tracks to bring them all up to about the ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>To adjust the level of a number of tracks to bring them all up to about the same level is to _______________ them.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>acoustics</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>decibel</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>normalize</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>quantization</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What happens when an audio signal exceeds the recording device's maximum ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>What happens when an audio signal exceeds the recording device's maximum recording level?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>The signal is compressed to an appropriate level.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Clipping of the signal occurs, introducing distortion.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>The audio clip is extended to accommodate the extra data.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>The entire clip's volume is reduced correspondingly.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>The extra bits go into a buffer for later use.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>When audio is measured in order to be digitally stored, the value of each ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>When audio is measured in order to be digitally stored, the value of each measurement is rounded off to the nearest integer in a process called _______________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>acoustics</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>decibel</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>normalize</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>quantization</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following sound file characteristics does not directly affect ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following sound file characteristics does not directly affect the size of a digital audio file?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>sample rate</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>sample size</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>tracks</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>volume</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>compression</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of these statements regarding the MIDI audio format is not true?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of these statements regarding the MIDI audio format is not true?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>The sound can easily be changed by changing instruments.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Spoken audio can easily be included.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Sound tracks can be created using sequencing software.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Files are generally smaller than the same digital audio sound.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Sounds can be stretched and timing changed with no distortion of the quality.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+</quiz>
